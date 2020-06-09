@@ -1,2 +1,2 @@
 # history_map_pc
-release update for pc
+PC版更新包存放位置。
